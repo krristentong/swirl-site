@@ -1,0 +1,19 @@
+body{
+    padding: 25px;
+    text-align: left;
+    background: turquoise;
+    color: darkblue
+}
+
+img {
+    width: 200px;
+}
+
+img:hover{
+    transform: scale(1.5);
+    transform: rotate(270deg);
+    transform: scalex(4) scaley(2);
+
+    box-shadow: 0 0 20px blue;
+}
+
